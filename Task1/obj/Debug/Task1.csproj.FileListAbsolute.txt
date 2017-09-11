@@ -1,0 +1,6 @@
+F:\ISM\ISMDotNet2\Task1\bin\Debug\Task1.exe.config
+F:\ISM\ISMDotNet2\Task1\bin\Debug\Task1.exe
+F:\ISM\ISMDotNet2\Task1\bin\Debug\Task1.pdb
+F:\ISM\ISMDotNet2\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+F:\ISM\ISMDotNet2\Task1\obj\Debug\Task1.exe
+F:\ISM\ISMDotNet2\Task1\obj\Debug\Task1.pdb

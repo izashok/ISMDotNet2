@@ -1,0 +1,5 @@
+F:\ISM\ISMDotNet2\Task4\bin\Debug\Task4.exe.config
+F:\ISM\ISMDotNet2\Task4\bin\Debug\Task4.exe
+F:\ISM\ISMDotNet2\Task4\bin\Debug\Task4.pdb
+F:\ISM\ISMDotNet2\Task4\obj\Debug\Task4.exe
+F:\ISM\ISMDotNet2\Task4\obj\Debug\Task4.pdb

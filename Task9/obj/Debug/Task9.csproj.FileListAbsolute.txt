@@ -1,0 +1,5 @@
+F:\ISM\ISMDotNet2\Task9\bin\Debug\Task9.exe.config
+F:\ISM\ISMDotNet2\Task9\bin\Debug\Task9.exe
+F:\ISM\ISMDotNet2\Task9\bin\Debug\Task9.pdb
+F:\ISM\ISMDotNet2\Task9\obj\Debug\Task9.exe
+F:\ISM\ISMDotNet2\Task9\obj\Debug\Task9.pdb
